@@ -129,7 +129,7 @@ E --> F[👥 Connected Users]
 
 ## 🔹 Real-Time Chat Interface
 
-<img width="526" height="569" alt="Chat Room" src="https://github.com/user-attachments/assets/a05d893f-b3e9-47cd-983a-5226adb390e3"/>
+<img width="532" height="587" alt="image" src="https://github.com/user-attachments/assets/4d51291f-bc8d-46de-be6a-55d21a1f27f6" />
 
 ---
 
