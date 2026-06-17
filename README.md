@@ -2,7 +2,7 @@
 
 # 💬 Real-Time Chat Application
 
-### 🚀 Connect • Chat • Communicate Instantly
+### Connect • Chat • Communicate Instantly
 
 A modern real-time messaging platform built with **Spring Boot**, **WebSocket**, **STOMP**, and **Thymeleaf**, enabling seamless communication between multiple users without page refreshes.
 
@@ -16,13 +16,13 @@ A modern real-time messaging platform built with **Spring Boot**, **WebSocket**,
 
 <br>
 
-### 🌟 Real-Time Messaging Experience Powered by Spring Boot
+### Real-Time Messaging Experience Powered by Spring Boot
 
 </div>
 
 ---
 
-# 📖 About The Project
+# About The Project
 
 In today's digital world, real-time communication is essential. This project demonstrates how modern chat systems work by leveraging **WebSockets** and **STOMP Protocol** to create persistent client-server connections.
 
@@ -32,13 +32,13 @@ Users can join a chat room, exchange messages instantly, and receive live update
 
 ---
 
-# ✨ Key Features
+#  Key Features
 
 <table>
 <tr>
 <td width="50%">
 
-### 🚀 Real-Time Communication
+###  Real-Time Communication
 
 * Instant message delivery
 * WebSocket-based architecture
@@ -49,7 +49,7 @@ Users can join a chat room, exchange messages instantly, and receive live update
 
 <td width="50%">
 
-### 💬 Smart Chat Features
+###  Smart Chat Features
 
 * Join notifications
 * Leave notifications
@@ -62,7 +62,7 @@ Users can join a chat room, exchange messages instantly, and receive live update
 <tr>
 <td>
 
-### 🎨 Modern UI
+###  Modern UI
 
 * Responsive design
 * Clean user interface
@@ -73,7 +73,7 @@ Users can join a chat room, exchange messages instantly, and receive live update
 
 <td>
 
-### ⚙️ Backend Power
+###  Backend Power
 
 * Spring Boot Architecture
 * STOMP Messaging
@@ -100,7 +100,7 @@ E --> F[👥 Connected Users]
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -119,7 +119,7 @@ E --> F[👥 Connected Users]
 
 ---
 
-# 📸 Application Preview
+#  Application Preview
 
 ## 🔹 Join Chat Room
 
@@ -182,8 +182,7 @@ src
 ```
 
 ---
-
-# 🚀 Getting Started
+#  Getting Started
 
 ### Clone Repository
 
@@ -211,7 +210,7 @@ http://localhost:8081
 
 ---
 
-# 🎯 Skills Demonstrated
+#  Skills Demonstrated
 
 ✅ Spring Boot Development
 
@@ -233,7 +232,7 @@ http://localhost:8081
 
 ---
 
-# 💼 Resume Impact
+#  Resume Impact
 
 ### Key Achievements
 
@@ -249,7 +248,7 @@ http://localhost:8081
 
 ---
 
-# 🔮 Future Improvements
+#  Future Improvements
 
 * 🔐 User Authentication & Authorization
 * 👤 Private Messaging
